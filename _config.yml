@@ -6,13 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jorge
 middle_name: Esparteiro
 last_name: Garcia
-description: >
-  Jorge Esparteiro Garcia is a Lecturer at the Instituto Politécnico de Viana do Castelo and Director of the ADiT-Lab Research Unit. His work focuses on research, teaching, and academic innovation.
-
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+description: "Jorge Esparteiro Garcia is a Lecturer at the Instituto Politécnico de Viana do Castelo and Director of the ADiT-Lab Research Unit. His work focuses on research, teaching, and academic innovation."
+footer_text: 'Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.'
 keywords: researcher, lecturer, academic, publications, teaching, ADiT-Lab, IPVC
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
