@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <p><strong>Jorge Esparteiro Garcia</strong> is an Assistant Professor at the 
-<a href="https://www.ipvc.pt/" target="_blank" rel="external nofollow noopener">Instituto Politécnico de Viana do Castelo (IPVC)</a>. 
+Assistant Professor at the <a href="https://www.ipvc.pt/" target="_blank" rel="external nofollow noopener">Instituto Politécnico de Viana do Castelo (IPVC)</a>. 
 He is the Director of the ADiT-Lab (Applied Digital Transformation Laboratory) Research Unit at IPVC and an Affiliated Researcher at 
 <a href="https://www.inesctec.pt/" target="_blank" rel="external nofollow noopener">INESC TEC</a> in the field of Software Engineering.</p>
 
