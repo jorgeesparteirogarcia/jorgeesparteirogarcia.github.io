@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-31'
 papers:
   5N1uTs0AAAAJ:08ZZubdj9fEC:
     citations: 19
@@ -22,7 +22,7 @@ papers:
     title: 'Industry and innovation in the Alto Minho region: assessing regional performance'
     year: '2023'
   5N1uTs0AAAAJ:4OULZ7Gr8RgC:
-    citations: 80
+    citations: 79
     title: 'The effectiveness of deep learning vs. traditional methods for lung disease diagnosis using chest X-ray images: A systematic review'
     year: '2023'
   5N1uTs0AAAAJ:5Ul4iDaHHb8C:
@@ -41,10 +41,18 @@ papers:
     citations: 0
     title: "Industry\u2013Mobile and Internet Applications as a Tool to Improve Event Communication and Experiences: A Case Study of a French Event App Start-Up"
     year: '2024'
+  5N1uTs0AAAAJ:9vf0nzSNQJEC:
+    citations: 0
+    title: 'Musicmedia Childhoods: Generation Alpha''s Creative Agency amid Digital Platform Logics'
+    year: '2026'
   5N1uTs0AAAAJ:9yKSN-GCB0IC:
-    citations: 1
+    citations: 0
     title: "Assistente Web para An\xE1lise Autom\xE1tica e Colaborativa de Dados-WebCAD"
     year: '2007'
+  5N1uTs0AAAAJ:AXPGKjj_ei8C:
+    citations: 0
+    title: "Generation Alpha\u2019s Attitudes Toward Online and Offline Marketing Communication"
+    year: '2026'
   5N1uTs0AAAAJ:BqipwSGYUEgC:
     citations: 14
     title: 'Search engine optimization (SEO) for a company website: A case study'
@@ -78,9 +86,13 @@ papers:
     title: 'Nation Branding in a Digital Post-COVID World: The Cases of Portugal and Brazil'
     year: '2025'
   5N1uTs0AAAAJ:JV2RwH3_ST0C:
-    citations: 7
+    citations: 6
     title: 'The omnichannel strategy in portuguese companies: an overview'
     year: '2021'
+  5N1uTs0AAAAJ:JoZmwDi-zQgC:
+    citations: 0
+    title: 'Symbolic Construction and Digital Meaning Making in Skatewear Branding: Evidence'
+    year: '2026'
   5N1uTs0AAAAJ:KlAtU1dfN6UC:
     citations: 9
     title: Manage software requirements specification using web analytics data
@@ -102,7 +114,7 @@ papers:
     title: "Substitui\xE7\xE3o de carrinhas de frio positivo, por caixas EPP com placas eut\xE9cticas e sensores BLE em entregas e-commerce na Darkstore da SONAE MC"
     year: '2021'
   5N1uTs0AAAAJ:M3NEmzRMIkIC:
-    citations: 16
+    citations: 18
     title: Data analysis in content marketing strategies
     year: '2021'
   5N1uTs0AAAAJ:MXK_kJrjxJIC:
@@ -129,6 +141,10 @@ papers:
     citations: 1
     title: The City Makes Its Mark in a Review on Digital Communication and Citizenship
     year: '2023'
+  5N1uTs0AAAAJ:PELIpwtuRlgC:
+    citations: 0
+    title: 'Between Creativity and the Digital Market: Challenges Faced in Communication Agencies'
+    year: '2026'
   5N1uTs0AAAAJ:SP6oXDckpogC:
     citations: 0
     title: 'Mapping SDG 11 in Alto Minho region: sustainable cities and communities'
@@ -138,7 +154,7 @@ papers:
     title: "A escala Webqual na avalia\xE7\xE3o multidisciplinar de websites de hot\xE9is: o caso da cidade do Porto"
     year: '2017'
   5N1uTs0AAAAJ:SeFeTyx0c_EC:
-    citations: 27
+    citations: 28
     title: Search for magnetic monopoles with ten years of the ANTARES neutrino telescope
     year: '2022'
   5N1uTs0AAAAJ:Tiz5es2fbqcC:
@@ -150,7 +166,7 @@ papers:
     title: An automated approach for requirements specification maintenance
     year: '2016'
   5N1uTs0AAAAJ:ULOm3_A8WrAC:
-    citations: 71
+    citations: 72
     title: 'Trends and Advances in Information Systems and Technologies: Volume 1'
     year: '2018'
   5N1uTs0AAAAJ:UeHWp8X0CEIC:
@@ -189,6 +205,10 @@ papers:
     citations: 0
     title: Strategic Digital Communication for the Sports Modalities of FC Porto
     year: '2025'
+  5N1uTs0AAAAJ:Y5dfb0dijaUC:
+    citations: 0
+    title: "Musicmedia Childhoods: Generation Alpha\u2019s Creative Agency amid Digital Platform Logics"
+    year: '2026'
   5N1uTs0AAAAJ:YFjsv_pBGBYC:
     citations: 1
     title: Tracking method for aircraft on ground (aog) service and the challenges for e-commerce
@@ -197,8 +217,12 @@ papers:
     citations: 4
     title: Requirements change management based on web usage mining
     year: '2016'
+  5N1uTs0AAAAJ:_B80troHkn4C:
+    citations: 0
+    title: 'Outdoor Learning in Europe: A Comparative Analysis of Selected Initiatives for Personal and Social Development'
+    year: '2026'
   5N1uTs0AAAAJ:_FxGoFyzp5QC:
-    citations: 49
+    citations: 50
     title: New advances in information systems and technologies
     year: '2016'
   5N1uTs0AAAAJ:_kc_bZDykSQC:
@@ -225,6 +249,14 @@ papers:
     citations: 0
     title: Automated Model-based GUI Test Cases Generation from Use Cases
     year: '2008'
+  5N1uTs0AAAAJ:dTyEYWd-f8wC:
+    citations: 0
+    title: Determinants of Chatbot Adoption
+    year: '2026'
+  5N1uTs0AAAAJ:eMMeJKvmdy0C:
+    citations: 0
+    title: 'Determinants of Chatbot Adoption and Satisfaction: Drivers and Barriers'
+    year: '2026'
   5N1uTs0AAAAJ:eQOLeE2rZwMC:
     citations: 7
     title: Maintaining Requirements Using Web Usage Data
@@ -258,7 +290,7 @@ papers:
     title: 'The Effectiveness of Deep Learning vs. Traditional Methods for Lung Disease Diagnosis Using Chest X-Ray Images: A Systematic Review'
     year: '2023'
   5N1uTs0AAAAJ:k_IJM867U9cC:
-    citations: 21
+    citations: 22
     title: 'Social Media Content Marketing Strategy for Higher Education: A Case Study Approach'
     year: '2021'
   5N1uTs0AAAAJ:l7t_Zn2s7bgC:
@@ -292,7 +324,7 @@ papers:
   5N1uTs0AAAAJ:pyW8ca7W8N0C:
     citations: 2
     title: Editorial for the Special Issue:" Novel Solutions and Novel Approaches in Operational Research"
-    year: '2022'
+    year: '2024'
   5N1uTs0AAAAJ:qjMakFHDy7sC:
     citations: 26
     title: A Requirements-to-Implementation Mapping Tool for Requirements Traceability
@@ -317,6 +349,10 @@ papers:
     citations: 218
     title: 'Rivaroxaban or aspirin for patent foramen ovale and embolic stroke of undetermined source: a prespecified subgroup analysis from the NAVIGATE ESUS trial'
     year: '2018'
+  5N1uTs0AAAAJ:tkaPQYYpVKoC:
+    citations: 0
+    title: 'Symbolic Construction and Digital Meaning Making in Skatewear Branding: Evidence from Instagram Communication'
+    year: '2026'
   5N1uTs0AAAAJ:u-x6o8ySG0sC:
     citations: 3
     title: Aspect-oriented web development in PHP
@@ -326,7 +362,7 @@ papers:
     title: "Analyzing S\xE3o Paulo\u2019s Place Branding Positioning in Promotional Videos (2017\u20132019)"
     year: '2024'
   5N1uTs0AAAAJ:u_35RYKgDlwC:
-    citations: 96
+    citations: 97
     title: "Digital influencers\u2019 attributes and perceived characterizations and their impact on purchase intentions"
     year: '2023'
   5N1uTs0AAAAJ:wbdj-CoPYUoC:
