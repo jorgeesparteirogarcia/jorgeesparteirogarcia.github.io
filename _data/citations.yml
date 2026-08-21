@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-21'
 papers:
   5N1uTs0AAAAJ:08ZZubdj9fEC:
     citations: 19
@@ -29,6 +29,10 @@ papers:
     citations: 0
     title: 'Digital Innovation in Health Care: Addressing Medication Non-adherence'
     year: '2023'
+  5N1uTs0AAAAJ:5awf1xo2G04C:
+    citations: 0
+    title: Structured and Unstructured Data for Strategic Governance in Public Administration-from Evidence to Analytical Dashboards
+    year: '2026'
   5N1uTs0AAAAJ:5ugPr518TE4C:
     citations: 0
     title: "Strategic Governance in Public Administration Using Artificial Intelligence Approaches\u2014A Proposal Using Open-Source Virtual Assistants"
@@ -105,6 +109,10 @@ papers:
     citations: 0
     title: 'Qualitative Research for a Marketing Plan: The Case Study of Polytechnic Institute of Viana do Castelo'
     year: '2023'
+  5N1uTs0AAAAJ:LjlpjdlvIbIC:
+    citations: 0
+    title: 'Governing AI for Municipal Services: State of the Art, Patterns, and Practical Evidence'
+    year: '2026'
   5N1uTs0AAAAJ:LkGwnXOMwfcC:
     citations: 0
     title: Epidemiological models and the diffusion of an advertising campaign
@@ -201,6 +209,10 @@ papers:
     citations: 0
     title: Using principal component analysis to support content marketing strategies
     year: '2024'
+  5N1uTs0AAAAJ:WqliGbK-hY8C:
+    citations: 0
+    title: "Plugin for E-mail Automation Using Large Language Models\u2013A Design and Specification Proposal"
+    year: '2026'
   5N1uTs0AAAAJ:XiSMed-E-HIC:
     citations: 1
     title: The impact of process automation on employee performance
@@ -226,7 +238,7 @@ papers:
     title: 'Outdoor Learning in Europe: A Comparative Analysis of Selected Initiatives for Personal and Social Development'
     year: '2026'
   5N1uTs0AAAAJ:_FxGoFyzp5QC:
-    citations: 30
+    citations: 31
     title: New advances in information systems and technologies
     year: '2016'
   5N1uTs0AAAAJ:_kc_bZDykSQC:
@@ -265,6 +277,10 @@ papers:
     citations: 8
     title: Maintaining Requirements Using Web Usage Data
     year: '2016'
+  5N1uTs0AAAAJ:eq2jaN3J8jMC:
+    citations: 0
+    title: 'Open-Source Artificial Intelligence Avatars: Technologies, Architectures, and Multimodal Language Integration'
+    year: '2026'
   5N1uTs0AAAAJ:fQNAKQ3IYiAC:
     citations: 0
     title: "The Attitude of Young Portuguese Youth Toward Blood Donation Advertising Campaigns\u2014an Exploratory Approach"
@@ -322,7 +338,7 @@ papers:
     title: Ferramentas de e-learning no contexto ensino-aprendizagem
     year: '2022'
   5N1uTs0AAAAJ:pyW8ca7W8N0C:
-    citations: 3
+    citations: 4
     title: Editorial for the Special Issue:" Novel Solutions and Novel Approaches in Operational Research"
     year: '2022'
   5N1uTs0AAAAJ:qjMakFHDy7sC:
@@ -338,7 +354,7 @@ papers:
     title: "Desenvolvimento de uma metodologia para redu\xE7\xE3o do volume de obsoletos numa empresa do sector autom\xF3vel"
     year: '2017'
   5N1uTs0AAAAJ:sSrBHYA8nusC:
-    citations: 2
+    citations: 3
     title: 'The Impact of Digital Marketing on the Esports Industry: Preliminary Approach'
     year: '2025'
   5N1uTs0AAAAJ:t6usbXjVLHcC:
@@ -346,7 +362,7 @@ papers:
     title: "Students\u2019 perspective on satisfaction of a higher education institution: A preliminary statistical approach"
     year: '2026'
   5N1uTs0AAAAJ:tS2w5q8j5-wC:
-    citations: 215
+    citations: 216
     title: 'Rivaroxaban or aspirin for patent foramen ovale and embolic stroke of undetermined source: a prespecified subgroup analysis from the NAVIGATE ESUS trial'
     year: '2018'
   5N1uTs0AAAAJ:tkaPQYYpVKoC:
@@ -362,7 +378,7 @@ papers:
     title: "Analyzing S\xE3o Paulo\u2019s Place Branding Positioning in Promotional Videos (2017\u20132019)"
     year: '2024'
   5N1uTs0AAAAJ:u_35RYKgDlwC:
-    citations: 92
+    citations: 93
     title: "Digital influencers\u2019 attributes and perceived characterizations and their impact on purchase intentions"
     year: '2023'
   5N1uTs0AAAAJ:wbdj-CoPYUoC:
@@ -370,6 +386,6 @@ papers:
     title: Exploring the Effectiveness of Social Marketing on Blood Donation Engagement in Portugal
     year: '2025'
   5N1uTs0AAAAJ:yD5IFk8b50cC:
-    citations: 25
+    citations: 26
     title: 'Trends and Innovations in Information Systems and Technologies: Volume 1'
     year: '2020'
